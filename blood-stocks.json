@@ -22,17 +22,17 @@
   {
     "bloodType": "A-",
     "status": "Healthy",
-    "fillLevel": "91%"
+    "fillLevel": "86%"
   },
   {
     "bloodType": "B-",
     "status": "Healthy",
-    "fillLevel": "63%"
+    "fillLevel": "69%"
   },
   {
     "bloodType": "O-",
     "status": "Low",
-    "fillLevel": "37%"
+    "fillLevel": "41%"
   },
   {
     "bloodType": "AB-",
