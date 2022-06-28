@@ -2,37 +2,37 @@
   {
     "bloodType": "A+",
     "status": "Low",
-    "fillLevel": "46%"
+    "fillLevel": "48%"
   },
   {
     "bloodType": "B+",
     "status": "Healthy",
-    "fillLevel": "82%"
+    "fillLevel": "85%"
   },
   {
     "bloodType": "O+",
     "status": "Low",
-    "fillLevel": "44%"
+    "fillLevel": "45%"
   },
   {
     "bloodType": "AB+",
     "status": "Moderate",
-    "fillLevel": "64%"
+    "fillLevel": "66%"
   },
   {
     "bloodType": "A-",
     "status": "Healthy",
-    "fillLevel": "77%"
+    "fillLevel": "74%"
   },
   {
     "bloodType": "B-",
     "status": "Moderate",
-    "fillLevel": "66%"
+    "fillLevel": "60%"
   },
   {
     "bloodType": "O-",
     "status": "Moderate",
-    "fillLevel": "58%"
+    "fillLevel": "61%"
   },
   {
     "bloodType": "AB-",
