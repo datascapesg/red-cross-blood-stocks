@@ -7,17 +7,17 @@
   {
     "bloodType": "B+",
     "status": "Healthy",
-    "fillLevel": "87%"
+    "fillLevel": "86%"
   },
   {
     "bloodType": "O+",
     "status": "Moderate",
-    "fillLevel": "51%"
+    "fillLevel": "53%"
   },
   {
     "bloodType": "AB+",
     "status": "Healthy",
-    "fillLevel": "62%"
+    "fillLevel": "61%"
   },
   {
     "bloodType": "A-",
@@ -32,7 +32,7 @@
   {
     "bloodType": "O-",
     "status": "Moderate",
-    "fillLevel": "54%"
+    "fillLevel": "50%"
   },
   {
     "bloodType": "AB-",
